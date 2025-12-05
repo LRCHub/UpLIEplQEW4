@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ギフにテッド",
+  "base_artist": "和ぬか",
+  "createdAt": "2025-12-05T14:56:32.558076Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ギフにテッド",
+      "artist": "和ぬか",
+      "has_synced": true,
+      "path": "select/01_ギフにテッド_和ぬか.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ギフにテッド",
+      "artist": "和ぬか",
+      "has_synced": true,
+      "path": "select/02_ギフにテッド_和ぬか.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ギフにテッド / Gifted",
+      "artist": "Wanuka",
+      "has_synced": true,
+      "path": "select/03_ギフにテッド___Gifted_Wanuka.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ギフにテッド",
+      "artist": "和ぬか",
+      "has_synced": false,
+      "path": "select/pl_01_ギフにテッド_和ぬか.txt"
+    }
+  ]
+}
